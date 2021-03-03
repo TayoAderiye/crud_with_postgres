@@ -25,7 +25,7 @@ npm start
 
 ## Update package.json
 
-To seed the database with users, bootcamps, courses and reviews with the data from "_data" folder, run
+Update package.json to create database
 ```
 "db:create": "sequelize-cli db:create"
 Now we can run yarn db:create to create our new database.
