@@ -1,4 +1,4 @@
-# CRUD wit Node js and Postgres
+# CRUD with Node js and Postgres
 
 > CRUD API for using Node js, Express and Postgres as the database
 
